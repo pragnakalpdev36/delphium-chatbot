@@ -1,0 +1,37 @@
+service: ai-sales-agent-flask-app
+
+provider:
+  name: aws
+  runtime: python3.10
+  region: us-east-1  # Change to your AWS region
+  stage: prod  # Set a fixed stage name to prevent "dev" from being appended
+  stackName: ai-sales-agent-flask-app
+
+functions:
+  app:
+    handler: flask_app.handler  # Make sure this function exists in your flask_app.py
+    events:
+      - http:
+          path: /
+          method: any
+    # environment:
+    #   AWS_ACCESS_KEY_ID: ${env:AWS_ACCESS_KEY_ID}
+    #   AWS_SECRET_ACCESS_KEY: ${env:AWS_SECRET_ACCESS_KEY}
+    #   AWS_REGION: ${env:AWS_REGION}
+
+plugins:
+  - serverless-python-requirements
+
+custom:
+  pythonRequirements:
+    dockerizePip: true
+    zip: false
+
+
+package:
+  individually: true
+  exclude:
+    - node_modules/**
+    - venv/**  # Exclude the virtual environment
+  include:
+    - .env

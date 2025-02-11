@@ -1,0 +1,235 @@
+{
+  "1":{
+    "widgetColor": "#89c4ff",
+    "textColor": " #004589",
+    "userMsgBackgroundColor": "#cfe2f3",
+    "bottombgcolor":"#89c4ff",
+  
+    "botMsgBackgroundColor": "#89c4ff",
+    "botResponseDelay": "",
+    "chatHeaderCss": {
+      "textColor": "#004589",
+      "backgroundColor": "#89c4ff",
+      "enableBotAvatarBorder": true
+    },
+    "chatHeaderTextColor": "#89c4ff",
+    "botMsgColor": "#4b5563",
+    "userMsgColor": "#89c4ff",
+    "paddingaround":true,
+    "bgTheme":"ig",
+    "bgImage":"https://i.pinimg.com/564x/a6/e1/67/a6e16700cbca3e02a7c0ee7de3e3b75a.jpg",
+    "widgetbgColor":"white",
+    "buttonsCss": {
+      "color": "#89c4ff",
+      "backgroundColor": "#004589",
+      "borderColor": "#4b5563",
+      "borderWidth": "0px",
+      "borderRadius": "999px",
+      "hoverBackgroundColor": "white",
+      "hoverColor": "#4b5563",
+      "hoverborderWidth": "1px",
+      "enableHover": false
+      }
+},
+"2":{
+    "widgetColor": "#222222",
+    "textColor": "black",
+    "widgetbgColor":"#222222",
+    "userMsgBackgroundColor": "#b5cff8",
+    "bottombgcolor":"#222222",
+    "timecolor": "#eeeeee",
+   
+    "botMsgBackgroundColor": "#444444",
+    "botResponseDelay": "",
+    "chatHeaderCss": {
+      "textColor": " #ffffff",
+      "backgroundColor": "#222222",
+      "enableBotAvatarBorder": true
+    },
+    "chatHeaderTextColor": "#89c4ff",
+    "botMsgColor": "white",
+    "userMsgColor": "black",
+    "bgTheme":"ig",
+  "bgImage":"https://i.pinimg.com/564x/74/7d/b0/747db05273d8d6a5ce47d91741652a3b.jpg",
+    "paddingaround":true,
+    "buttonsCss": {
+      "color": "#89c4ff",
+      "backgroundColor": "    #004589",
+      "borderColor": "#4b5563",
+      "borderWidth": "0px",
+      "borderRadius": "999px",
+      "hoverBackgroundColor": "white",
+      "hoverColor": "#4b5563",
+      "hoverborderWidth": "1px",
+      "enableHover": false
+}
+},
+
+"3": {
+  "widgetColor": "#ffffff",
+  "textColor": "black",
+  "widgetbgColor": "#ffffff",
+  "userMsgBackgroundColor": "#d4f4dd",
+  "bottombgcolor": "#ffffff",
+  
+  "botMsgBackgroundColor": "#e6e6e6",
+  "botResponseDelay": "",
+  "bgTheme":"ig",
+  "chatHeaderCss": {
+      "textColor": "#000000",
+      "backgroundColor": "#ffffff",
+      "enableBotAvatarBorder": true
+  },
+  "chatHeaderTextColor": "#00796b",
+  "botMsgColor": "black",
+  "paddingaround":true,
+  "userMsgColor": "black",
+  "bgImage": "https://i.pinimg.com/236x/17/71/32/17713260384adda2612c3c873e740f07.jpg",
+  "buttonsCss": {
+      "color": "#ffffff",
+      "backgroundColor": "#00796b",
+      "borderColor": "#00796b",
+      "borderWidth": "0px",
+      "borderRadius": "999px",
+      "hoverBackgroundColor": "#004d40",
+      "hoverColor": "#ffffff",
+      "hoverborderWidth": "1px",
+      "enableHover": true
+  }
+},
+
+"4": {
+  "widgetColor": "#ffebcd",
+  "textColor": "black",
+  "widgetbgColor": "#ffebcd",
+  "userMsgBackgroundColor": "#ffe4e1",
+  "bottombgcolor": "#ffebcd",
+  
+  "botMsgBackgroundColor": "#ffdab9",
+  "botResponseDelay": "",
+  "bgTheme":"ig",
+  "chatHeaderCss": {
+      "textColor": "#8b4513",
+      "backgroundColor": "#ffebcd",
+      "enableBotAvatarBorder": true
+  },
+  "chatHeaderTextColor": "#d2691e",
+  "botMsgColor": "#8b4513",
+  "paddingaround":true,
+  "userMsgColor": "black",
+  "bgImage": "https://i.pinimg.com/564x/3f/30/90/3f3090185407d16df31f9f3078e1e77f.jpg",
+  "buttonsCss": {
+      "color": "#8b4513",
+      "backgroundColor": "#d2691e",
+      "borderColor": "#8b4513",
+      "borderWidth": "0px",
+      "borderRadius": "999px",
+      "hoverBackgroundColor": "#8b4513",
+      "hoverColor": "#ffffff",
+      "hoverborderWidth": "1px",
+      "enableHover": true
+  }
+},
+
+  
+  "5": {
+  "widgetColor": "#f5f5f5",
+  "textColor": "black",
+  "widgetbgColor": "#f5f5f5",
+  "userMsgBackgroundColor": "#d1c4e9",
+  "bottombgcolor": "#f5f5f5",
+  
+  "botMsgBackgroundColor": "#c5cae9",
+  "botResponseDelay": "",
+  "bgTheme":"ig",
+  "chatHeaderCss": {
+      "textColor": "#3f51b5",
+      "backgroundColor": "#f5f5f5",
+      "enableBotAvatarBorder": true
+  },
+  "chatHeaderTextColor": "#673ab7",
+  "botMsgColor": "#3f51b5",
+  "paddingaround":true,
+  "userMsgColor": "black",
+  "bgImage": "https://i.pinimg.com/564x/c5/61/57/c56157e053e3a1dbaad3682a6c01e9d8.jpg",
+  "buttonsCss": {
+      "color": "#ffffff",
+      "backgroundColor": "#3f51b5",
+      "borderColor": "#3f51b5",
+      "borderWidth": "0px",
+      "borderRadius": "999px",
+      "hoverBackgroundColor": "#673ab7",
+      "hoverColor": "#ffffff",
+      "hoverborderWidth": "1px",
+      "enableHover": true
+  }
+},
+
+"6": {
+  "widgetColor": "#2c3e50",
+  "textColor": "white",
+  "widgetbgColor": "#2c3e50",
+  "userMsgBackgroundColor": "#e74c3c",
+  "bottombgcolor": "#2c3e50",
+  
+  "botMsgBackgroundColor": "#34495e",
+  "botResponseDelay": "",
+  "bgTheme":"ig",
+  "chatHeaderCss": {
+      "textColor": "#ffffff",
+      "backgroundColor": "#2c3e50",
+      "enableBotAvatarBorder": true
+  },
+  "chatHeaderTextColor": "#1abc9c",
+  "botMsgColor": "#ecf0f1",
+  "userMsgColor": "#ffffff",
+  "paddingaround":true,
+  "bgImage": "https://i.pinimg.com/236x/92/74/10/92741073d02ba37d7926a6b90ace7e29.jpg",
+  "buttonsCss": {
+      "color": "#ffffff",
+      "backgroundColor": "#1abc9c",
+      "borderColor": "#1abc9c",
+      "borderWidth": "0px",
+      "borderRadius": "999px",
+      "hoverBackgroundColor": "#16a085",
+      "hoverColor": "#ffffff",
+      "hoverborderWidth": "1px",
+      "enableHover": true
+  }
+},
+"7": {
+"widgetColor": "#08043a",
+"bottombgcolor":"#08043a",
+"widgetbgColor":"white",
+"textColor": "white",
+"userMsgBackgroundColor": "#110790",
+"bgImage":"https://i.pinimg.com/564x/a4/9e/a3/a49ea3355df913ad5dc24ac68f46940a.jpg",
+
+"botMsgBackgroundColor": "#004589",
+"botResponseDelay": "",
+"bgofInput":"#eeeeee",
+"chatHeaderCss": {
+  "textColor": "#89c4ff",
+  "backgroundColor": "#08043a",
+  "enableBotAvatarBorder": true,
+  "botAvatarBorderRadius": "50%"
+},
+"chatHeaderTextColor": "#08043a",
+"botMsgColor": "white",
+"userMsgColor": "white",
+"bgTheme":"ig",
+"paddingaround":true,
+"buttonsCss": {
+  "color": "white",
+  "backgroundColor": "#004589",
+  "borderColor": "#4b5563",
+  "borderWidth": "0px",
+  "borderRadius": "999px",
+  "hoverBackgroundColor": "white",
+  "hoverColor": "#4b5563",
+  "hoverborderWidth": "1px",
+  "enableHover": false
+}
+}
+
+}

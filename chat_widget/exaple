@@ -1,0 +1,92 @@
+
+img=" data:image/jpeg;base64,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"
+
+
+
+import React, { useState, useContext } from "react";
+import AppContext from "../../../AppContext";
+import { formattedTs } from "../utils";
+import { useDispatch } from "react-redux";
+import { createUserMessage } from "../../../../utils/helpers";
+import {
+  addMessage,
+  disableButtons,
+  fetchBotResponse,
+  toggleBotTyping,
+  toggleUserTyping,
+} from "../messageSlice";
+
+export const Suggestions = ({ showBotAvatar, suggestionChips, ts, text, callback }) => {
+  const appContext = useContext(AppContext);
+  const { botAvatar, rasaServerUrl, userId } = appContext;
+  const dispatch = useDispatch();
+  const [expandedChipIndex, setExpandedChipIndex] = useState(null);
+
+  const handleChipClick = async (index, chip) => {
+    if (callback) {
+      const { title, payload } = chip;
+      dispatch(disableButtons(index));
+      dispatch(addMessage(createUserMessage(title)));
+      dispatch(toggleBotTyping(true));
+      dispatch(toggleUserTyping(false));
+      dispatch(
+        fetchBotResponse({
+          rasaServerUrl,
+          message: payload,
+          sender: userId,
+        })
+      );
+    }
+    setExpandedChipIndex(index);
+  };
+
+  return (
+    <div className="flex space-x-1">
+      <div className={`flex w-5 items-end`}>
+        <img
+          className={`h-5 w-5 rounded-full ${showBotAvatar ? "" : "hidden"}`}
+          src={botAvatar}
+          alt="BotAvatar"
+        />
+      </div>
+      <div className="flex flex-col space-y-1">
+        <div
+          className={`w-fit min-w-[10%] max-w-[75%] ml-4 self-start whitespace-pre-line break-words text-sm`}
+        >
+          {text && <div className="text-sm mb-1 flex">{text}</div>}
+          <div className="flex gap-2">
+            {suggestionChips.map((chip, index) => (
+              <button
+                key={index}
+                className={`bg-purple-300 overflow-ellipsis whitespace-nowrap overflow-hidden px-4 py-2 rounded-2xl text-xs ${
+                  expandedChipIndex === index ? "" : "line-clamp-3"
+                }`}
+                onClick={(e) => {
+                  e.preventDefault();
+                  handleChipClick(index, chip);
+                }}
+              >
+                {chip.title}
+              </button>
+            ))}
+          </div>
+        </div>
+        {showBotAvatar && (
+          <div className="text-[10px] italic text-gray-500">
+            {formattedTs(ts)}
+          </div>
+        )}
+      </div>
+      <style jsx>{`
+        .line-clamp-3 {
+          display: -webkit-box;
+          -webkit-line-clamp: 3;
+          -webkit-box-orient:horizontal;
+          overflow: hidden;
+          text-overflow: ellipsis;
+          white-space: normal;
+        }
+      `}</style>
+    </div>
+  );
+};

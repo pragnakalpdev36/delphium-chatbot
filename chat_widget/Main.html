@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <iframe id="chatbotIframe" src='https://9786-122-170-145-120.ngrok-free.app/dashboard/agent/46f90909c36d44d7ae9a1ceec924a568/bot-loader/' style="z-index: 100000;"></iframe>
+    <script>
+        const iframeContainer = document.getElementById("chatbotIframe");
+        window.addEventListener("message", (event) => {
+            const { pH, pW, pR, pB, pBO, pBOT, pBR, pP } = event.data;
+            iframeContainer.style.height = pH;
+            iframeContainer.style.width = pW;
+            iframeContainer.style.borderRadius = pBR;
+            iframeContainer.style.background = pB
+            iframeContainer.style.border = pBO;
+            iframeContainer.style.position = pP;
+            iframeContainer.style.bottom = pBOT;
+            iframeContainer.style.right = pR;
+        });
+    </script>
+</body>
+</html>
