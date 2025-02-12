@@ -204,8 +204,7 @@ export const messagesSlice = createSlice({
         }
       } else {
         state.messages.push({
-          // text: "Unfortunately, I'm having some problem. I would appreciate it if you could try again later",
-          text:"Hi",
+          text: "Unfortunately, I'm having some problem. I would appreciate it if you could try again later",
           sender: "BOT",
           type: "text",
           ts: new Date(),

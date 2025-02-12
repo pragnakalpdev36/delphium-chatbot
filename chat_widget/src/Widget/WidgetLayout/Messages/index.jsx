@@ -56,22 +56,6 @@ export const Messages = () => {
 
   const bottomRef = useScrollBottom(filteredMessages);
 
-useEffect(()=>{
-  if (filteredMessages.length <= 0 ) {
-    console.log("userGreeted=====>", userGreeted);
-    dispatch(setUserTypingPlaceholder("Please wait while bot is typing..."));
-    dispatch(toggleBotTyping(true));
-    dispatch(toggleUserTyping(false));
-    dispatch(
-      fetchBotResponse({
-        rasaServerUrl,
-        message: "/reset",
-        sender: localStorage.getItem("user_id"),
-      })
-    );
-  }
-}, [dispatch, filteredMessages.length, rasaServerUrl, userGreeted]);
-
 
   useEffect(() => {
     if (!userGreeted && filteredMessages.length < 1) {

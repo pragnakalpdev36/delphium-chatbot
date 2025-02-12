@@ -29,6 +29,7 @@ export const Widget = (props) => {
       const newUserId = uuidv4();
       console.log("Generated new uuid:", newUserId);
       localStorage.setItem("user_id", newUserId);
+      localStorage.setItem("agent_id", newUserId);
     }
 
     const userId =
